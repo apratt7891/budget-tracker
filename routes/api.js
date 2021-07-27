@@ -16,7 +16,8 @@ router.post("/api/transaction/bulk", ({body}, res) => {
     .then(dbTransaction => {
       res.json(dbTransaction);
     })
-    .catch(err => {
+    .catch((err) => {
+      console.log(err)
       res.status(404).json(err);
     });
 });
