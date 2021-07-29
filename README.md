@@ -19,6 +19,7 @@
 <br>
 Check out the deployed application here!
 💻 https://hidden-beach-50956.herokuapp.com/
+<img src="budget.png" alt="budget">
 
 ## License
 none
