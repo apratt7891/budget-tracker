@@ -15,7 +15,7 @@
  Perform a git clone in the repository and run npm i.
  
 ## Usage
-Check out a demo of the video below.
+
 <br>
 Check out the deployed application here!
 💻 https://hidden-beach-50956.herokuapp.com/
