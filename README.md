@@ -19,7 +19,7 @@
 <br>
 Check out the deployed application here!
 💻 https://hidden-beach-50956.herokuapp.com/
-<img src="budget.png" alt="budget">
+<img width="932" alt="budget" src="https://user-images.githubusercontent.com/78624822/127412866-ef4a477d-d0f9-4e24-b087-bcce96cd9272.png">
 
 ## License
 none
